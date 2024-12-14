@@ -7,4 +7,12 @@ Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format a
 
 ## GUI Wireframe
 
-Place your wireframe image(s) here!
+![](https://imgur.com/g8HLjsd.png)
+
+![](https://imgur.com/j4J8fyo.png)
+
+![](https://imgur.com/6bdSRvf.png)
+
+![](https://imgur.com/gFPHG3i.png)
+
+![](https://imgur.com/qm94kfJ.png)
